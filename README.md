@@ -1,1 +1,1 @@
-# BugTrackerJHipster
+
